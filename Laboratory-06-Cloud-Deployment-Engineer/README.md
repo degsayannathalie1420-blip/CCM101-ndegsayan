@@ -25,9 +25,9 @@ docker-compose down
 
 ## Screenshots
 
--screenshots/compose-deployment.png - Shows the containers running successfully after deployment.
--screenshots/nextcloud-web.png - Shows the Nextcloud setup page through the web browser.
--screenshots/compose-teardown.png - Shows the containers after the deployment was stopped and removed.
+- screenshots/compose-deployment.png - Shows the containers running successfully after deployment.
+- screenshots/nextcloud-web.png - Shows the Nextcloud setup page through the web browser.
+- screenshots/compose-teardown.png - Shows the containers after the deployment was stopped and removed.
 
 ## Skills Learned
 
