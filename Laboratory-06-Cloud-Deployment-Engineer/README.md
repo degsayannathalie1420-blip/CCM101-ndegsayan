@@ -15,13 +15,13 @@ In this laboratory, I worked as a Cloud Deployment Engineer for CloudNova Techno
 
 ## Commands Executed
 
-```bash
 mkdir nextcloud-deployment
 cd nextcloud-deployment
 nano docker-compose.yml
 docker-compose up -d
 docker-compose ps
 docker-compose down
+
 
 ## Screenshots
 
