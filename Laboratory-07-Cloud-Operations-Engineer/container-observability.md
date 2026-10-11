@@ -19,14 +19,14 @@ The HTTP 200 responses indicate that the requested pages were served successfull
 
 **Exact log entry for the missing page:**
 
-```text
 <html>
 <head><title>404 Not Found</title></head>
 <body>
 <center><h1>404 Not Found</h1></center>
 <hr><center>nginx/1.31.6</center>
 </body>
-</html>```
+</html>
+
 
 Application logs help engineers investigate incidents by recording requests and their results. Reviewing these records can reveal error patterns and provide clues about what needs to be checked next.
 
